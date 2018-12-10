@@ -1,0 +1,6 @@
+13
+book 3 1
+binoculars 4 6
+tent 5 4
+laptop 8 7
+kotelok 9 6

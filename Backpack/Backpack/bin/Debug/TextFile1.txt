@@ -1,0 +1,4 @@
+5
+morkva 1 6 
+shuga 3 12
+buliba 2 10 

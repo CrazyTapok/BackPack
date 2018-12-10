@@ -1,0 +1,6 @@
+8
+book 1 600
+binoculars 2 5000
+tent 4 1500
+laptop 2 40000
+kotelok 1 500

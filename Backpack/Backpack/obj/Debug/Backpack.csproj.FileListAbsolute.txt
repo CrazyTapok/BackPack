@@ -1,0 +1,7 @@
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\bin\Debug\Backpack.exe.config
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\bin\Debug\Backpack.exe
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\bin\Debug\Backpack.pdb
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\obj\Debug\Backpack.csprojAssemblyReference.cache
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\obj\Debug\Backpack.exe
+R:\учёба (универ)\3-ий курс\5 семестр\курсовой_проект\Backpack\Backpack\Backpack\obj\Debug\Backpack.pdb
